@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Doke_Profile&fontSize=90)
+
+
 - 👋 Hi, I’m @DokeJay
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
