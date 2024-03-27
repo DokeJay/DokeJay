@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello😄I`mDoke&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello😄I`mYoungDo&fontSize=90)
 
 
 - 👋 Hi, I’m @DokeJay
